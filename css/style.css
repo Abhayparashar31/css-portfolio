@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+a {
+    color: blue;
+}
+h1 {
+    font-size: 550%;
+    margin-top: 0;
+    width: 40%;
+    margin:0 auto 40px auto;
+    font-family: 'Sacramento', cursive;
+    color: wheat;
+    position: relative;
+    top: 20px;
+    margin-top: 30px;
+   
+}
+#subtitle {
+    color:wheat; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+h2 {
+    color: #11999E;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.h1 {
+    font-size: 40px;
+}
+.profile {
+    width:39%;
+    align-items: center;
+    margin: 15px auto auto auto;
+    
+}
+.info {
+    text-align: center;
+    color: #40514e;
+    color: wheat;
+}
+p {
+    font-size: 120%;
+    font-weight: 400;
+    text-shadow: cadetblue;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    color: wheat;
+}
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: #4f8a8b;
+    padding-bottom: 25px;
+    size: 500;
+}
+.middle-container {
+    padding-top: 25px;
+    background-color:#342b38;
+       margin: 0;
+}
+h3 {
+    color:#11999E;
+}
+.first-hr {
+    border-radius: 50%;
+    color: #40514e;
+    align:center;
+    width: 300px;
+   border: dotted;
+}
+.img-img-2 {
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 15px;
+
+}
+.img-img-3 {
+    margin-top: 15px;
+    width: 35%;
+
+    float: right;
+    margin-left: 30px;
+}
+.img-img {
+    border-radius: 50%;
+    width: 45%;
+ 
+}
+.bottom-cloud {
+    position: absolute;
+    bottom: 330px;
+    left: 360px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 410px;
+    top : 40px;
+    border: lightseagreen;
+}
+.mountain {
+    position: relative;
+    top:30px;
+    right: 20px;
+    width: 45%
+
+   
+}
+.contact-me {
+    display: flex;
+    background-color: #66BfBf;
+}
+.bottom-container {
+    flex: auto;
+    margin: 40px auto 40px auto;
+
+}
+#copyright {
+    text-align: center;
+    background-color: #66BfBf;
+    color: #EAF6F6;
+    margin:0;
+}
